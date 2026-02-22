@@ -4,7 +4,6 @@ library(MASS)
 library(survival)
 library(polycor)
 
-set.seed(123)
 
 # ============================================================
 # Helper functions
@@ -242,3 +241,4 @@ print(colMeans(out_final_df, na.rm = TRUE))
 
 out_file <- paste0("simulation_AM1000_prev_", prev, "_h2_", h2, ".txt")
 write.table(out_final_df, out_file, col.names = TRUE, row.names = FALSE, quote = FALSE)
+
