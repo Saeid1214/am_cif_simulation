@@ -16,7 +16,7 @@ We then apply the **permutation procedure** described in the paper to break down
 
 In both scenarios, the CIF models offspring risk as a function of:
 - **parental affection status**
-- **offspring age** (time-to-event / competing-risks framework)
+- **offspring age** 
 
 ## Output plot
 To compare the two scenarios, run:
