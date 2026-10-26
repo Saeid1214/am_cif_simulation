@@ -3,6 +3,7 @@
 ## Goal
 **Evaluating whether AM-embedded CIFs influence permutation-based estimates of prevalence and heritability.**
 
+
 To do this, we first generate assortatively mated parental couples and then simulate offspring affection status under two alternative outcome-generating CIFs:
 
 1. **RM-population CIF**: The CIF is calibrated under **randomly mated parents** (`Simulation_CIF_RMpop.r`).
